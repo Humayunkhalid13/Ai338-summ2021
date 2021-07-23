@@ -29,5 +29,6 @@
 
   <h2>EXPLAINATION:</h2>
 <h4>In our opinion support vector machine is the finest choice as in this strategy we get the finest prediction result.
-It enables the machine learning algorithm to train faster. It reduces the complexity of a model and makes it easier to interpret. 
-It improves the accuracy of a model if the right subset is chosen.</h4>
+</br>
+  <ul> <li> It enables the machine learning algorithm to train faster.</i> <li> It reduces the complexity of a model and makes it easier to interpret. </li>
+  <li>It improves the accuracy of a model if the right subset is chosen.</li></h4>
