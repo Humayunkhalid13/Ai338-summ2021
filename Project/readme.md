@@ -1,4 +1,4 @@
-<h1> Titanic-Survival-Predictions-using-machine-learning </h1>
+<h1> Titanic-Survival-Predictions </h1>
 
 <h4> A machine learning model to predict the survived passengers from the titanic disaster. </h4>
 
