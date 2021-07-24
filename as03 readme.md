@@ -2,5 +2,5 @@ This is the backbone of our entire ML workflow, the step that makes or breaks a 
 Accuracy
 Consistency
 Uniformity, and
-Completeness
+Completeness.
 In this assignment we do all this workflow for our prediction so that we can make our model more consistent and pure.
